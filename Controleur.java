@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿/*
+=======
+/*
+>>>>>>> 59d3d07a91ca457a0547e60a7d5fd199b92831ed
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
